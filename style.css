@@ -1,10 +1,11 @@
 .container {
   display: flex;
-  justify-content: center;
+  align-items: center;
   flex-direction: column;
 }
 .square {
   width: 300px;
   height: 300px;
   border: 2px solid red;
+  background-color: green;
 }
